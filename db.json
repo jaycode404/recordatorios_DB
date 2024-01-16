@@ -1,0 +1,24 @@
+{
+    "tareas": [
+      {
+        "id": 1,
+        "titulo": "Optimizar Aplicacion",
+        "descripcion": "Agregar alertas, etc.."
+      },
+      {
+        "id": 2,
+        "titulo": "Crear Mas proyectos para el portafolio",
+        "descripcion": "Debe ser algo mas impresionante de lo habitual,Debe ser algo mas impresionante de lo habitual,Debe ser algo mas impresionante de lo habitual,Debe ser algo mas impresionante de lo habitual,Debe ser algo mas impresionante de lo habitual,Debe ser algo mas impresionante de lo habitual,"
+      },
+      {
+        "id": 3,
+        "titulo": "Crear lista de clientes para la venta de paginas web",
+        "descripcion": "Crear lista de clientes potenciales para que adquieran su nueva y funcional pagina web donde puedan contactarlos y revisar sus servicios"
+      },
+      {
+        "id": 4,
+        "titulo": "Subir esta Aplicacion a mi Github",
+        "descripcion": "Revisar el performance con lighthouse"
+      }
+    ]
+  }
